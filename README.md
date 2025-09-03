@@ -4,7 +4,7 @@ A lightweight and responsive calculator built with HTML, CSS, and JavaScript.
 It supports fundamental arithmetic operations and provides a clean, user-friendly interface.
  
  Live Demo  
-[[Try the Calculator](https://riya99ramachandran.github.io/A-Basic-Calculator/)](https://riyaramachandran99.github.io/A-Basic-Calculator/)
+[[Try the Calculator][AT deployments]
 
 Project Structure
 A-Basic-Calculator/
